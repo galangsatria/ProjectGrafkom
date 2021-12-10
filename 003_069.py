@@ -9,6 +9,7 @@ Materi  : Membuat animasi  dengan turtle mainloop
 
 import turtle #memanggil library turtle
 
+
 emotion = input('pilih pola? (s = spiral, l = lingkaran) ')
 
 win = turtle.Screen() #memunculkan window turtle
